@@ -1,3 +1,3 @@
 module github.com/dangermike/udp_lines
 
-go 1.16
+go 1.20
